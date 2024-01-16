@@ -14,7 +14,7 @@ Clone the repository to your local machine:
 
 bash
 
-git clone https://github.com/your-username/razorpay-clone.git
+git clone https://github.com/danishshaikh04/razorpay-clone.git
 Open the index.html file in your web browser.
 
 Explore the Razorpay clone and experience the replicated user interface.
